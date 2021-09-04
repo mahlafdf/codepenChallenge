@@ -1,0 +1,14 @@
+.ft-social-list{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+.ft-social-list li{
+    padding: 2rem;
+}
+
+.fab{
+    color: white;
+}

@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital@1&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Space Mono', monospace;
+}
+
+
+
+
+
+footer{
+    background-color: black;
+    color: white;
+
+
+ /*Note : the code below should be applied for the ul not the footer*/
+
+    /*display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;*/
+} 
+
+
+.ft-social-list{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+.ft-social-list li{
+    padding: 2rem;
+}
+
+.fab{
+    color: white;
+}
+
+.ft-main{
+    text-align: center;
+    font-size: 1.5rem;
+}

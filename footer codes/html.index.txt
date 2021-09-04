@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Click Here</title>
-    <script src="https://kit.fontawesome.com/45d6c1db0a.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-    <section class="first-section">
-        <a href="#" class="cta">
-            <span>Click Here</span>
-            <svg width="13px" height="10px" viewBox="0 0 13 10">
-                <path d="M1,5 L11,5"></path>
-                <polyline points="8 1 12 5 8 9"></polyline>
-            </svg>
-        </a>
-    </section>
-    <footer> 
+  <footer> 
         <!--footer social-->
         <section class="ft-social">
             <ul class="ft-social-list">
@@ -38,7 +17,8 @@
             </ul>
         </section>
     </footer>
-</body>
-</html>
 
 
+<!-- to use icons put the script in head-->
+
+    <script src="https://kit.fontawesome.com/45d6c1db0a.js" crossorigin="anonymous"></script>
